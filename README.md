@@ -1,6 +1,6 @@
 # Hardware
 
-# SK8 via ST Nucleo-L031K6
+### SK8 via ST Nucleo-L031K6
 
 This was a collab project where me and my friend used this microprocessor to make a game. We connected the processor to a LCD screen, buttons and LEDs
 The game is about a skateboard that has 3 lives and has to jump over incoming objects. The objects are randomly picked and then spawn and move towards
